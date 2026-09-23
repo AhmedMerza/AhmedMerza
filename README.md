@@ -28,25 +28,3 @@ I enjoy owning features from idea to production — whether that's designing a s
 | **[LogScope](https://github.com/AhmedMerza/laravel-logscope)** | Database-driven structured logging for Laravel with advanced filtering. Running in production with ~400k records. |
 | **[Watchtower](https://github.com/AhmedMerza/laravel-watchtower)** | Active blocking and cross-server coordination at the edge of Laravel apps. |
 | **MoneyTrack** *(private)* | Privacy-first Flutter app that turns bank SMS into categorized transactions — fully on-device. |
-
----
-
-## Tech Stack
-
-**Backend**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
-
-**Mobile**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
-
-**Ops & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![N8N](https://img.shields.io/badge/N8N-FF6D5A?logo=n8n&logoColor=white&style=flat-square)
