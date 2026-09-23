@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/ahmedmerzaali/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
   </a>
-  <a href="mailto:ahmedmerzaali@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" alt="Email" />
-  </a>
   <a href="https://github.com/AhmedMerza">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
   </a>
