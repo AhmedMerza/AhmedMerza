@@ -50,12 +50,3 @@ I enjoy owning features from idea to production — whether that's designing a s
 **Ops & Tools**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![N8N](https://img.shields.io/badge/N8N-FF6D5A?logo=n8n&logoColor=white&style=flat-square)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMerza&show_icons=true&theme=github_dark&hide_border=true&border_radius=12" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedMerza&layout=compact&theme=github_dark&hide_border=true&border_radius=12" height="165" alt="Top languages" />
-</p>
